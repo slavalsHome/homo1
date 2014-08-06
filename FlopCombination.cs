@@ -8,7 +8,7 @@ namespace Common
     {
         public FlopCombination()
         {
-            Dro = new List<FCombinaton>();
+            Dro1 = new List<FCombinaton>();
         }
 
         public string Name { get; set; }
