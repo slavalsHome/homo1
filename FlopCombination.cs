@@ -11,7 +11,7 @@ namespace Common
             Dro1 = new List<FCombinaton>();
         }
 
-        public string Name { get; set; }
+        public string Name123 { get; set; }
 
         public FCombinaton Combinaton { get; set; }
 
