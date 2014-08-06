@@ -6,7 +6,7 @@ namespace Common
 {
     public class FlopCombination
     {
-        public FlopCombination()
+        public FlopCombination123()
         {
             Dro1 = new List<FCombinaton>();
         }
