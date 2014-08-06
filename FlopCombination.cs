@@ -206,7 +206,7 @@ namespace Common
             }
             if (cmb == null)
             {
-                cmb = GetStreet(myCard, flopCard);
+                cmb = GetStreet(myCard2, flopCard2);
 
                 if (cmb != null)
                 {
